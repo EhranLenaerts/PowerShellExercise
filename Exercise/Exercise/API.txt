@@ -1,4 +1,0 @@
-ApiKey = 'TDxC60PnB0M7HwxFg0PjBjlIi'
-ApiSecret = 'psPi3GDmh0lfjtyIFJmgqFU1MTKMd5HEfo0m48b2v8fhzj9b0J'
-AccessToken = '1372559834751590406-XAy9TkK3CrIo93pjTBsf4ZG9QonJ6L'
-AccessTokenSecret = 'oUXZim9OTpjOsTY5XWYKkAul9giwsnVKyELs9jeaoN6c4'
