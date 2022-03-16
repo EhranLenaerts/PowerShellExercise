@@ -1,0 +1,1 @@
+a way to say "not equal to" in programming language (without the equal sign)
